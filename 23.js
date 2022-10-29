@@ -1,7 +1,7 @@
 function solution(str){
-    let string ='';
+    let string1 ='';
     for(i = str.length-1;i >= 0;i--) {
-        string += str[i];
+        string1 += str[i];
     }
-    return string;
+    return string1;
 }
